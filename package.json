@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@nuxthq/studio": "^2.0.3"
+  }
+}
