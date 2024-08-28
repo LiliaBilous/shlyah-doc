@@ -31,3 +31,6 @@ Do NOT squash commits and don’t forget to close branch after merge (activate a
 Pull Request description is not required, but is very welcome.
 
 # License
+
+Lorem
+[Come back to main](/).
