@@ -4,7 +4,7 @@ import { defineNuxtConfig } from 'nuxt/config'
 
 export default defineNuxtConfig({
   devtools: { enabled: true },
-  modules: ['@nuxt/content', '@nuxthq/studio'],
+  modules: ['@nuxt/content', '@nuxthq/studio', '@nuxt/image'],
   routeRules: {
     '/': { prerender: true }
   },
