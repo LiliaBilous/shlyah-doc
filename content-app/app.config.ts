@@ -5,7 +5,12 @@ export default defineAppConfig({
   },
 
   header: {
-    links: ["/Home", "About"]
+    links: ["/Home", "About"],
+
+    logo: {
+      light: "/Frame 184.png",
+      dark: "/Frame 184.png"
+    }
   },
 
   footer: {
