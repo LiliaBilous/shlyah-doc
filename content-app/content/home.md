@@ -3,7 +3,8 @@
 > An awesome project.
 
 # For developers
-> Навчання програмуванню не може навчити бути експертом, також як і вивчення пензлів та фарб не може перетворити будь-кого на художника. <br>— Eric S. Raymond
+
+> Навчання програмуванню не може навчити бути експертом, також як і вивчення пензлів та фарб не може перетворити будь-кого на художника. :br— Eric S. Raymond
 
 ## Git flow
 
@@ -27,6 +28,6 @@ Template for creating PRs: [DOC-xxx] Short description.
 
 Do NOT squash commits and don’t forget to close branch after merge (activate an appropriate checkbox).
 
-Pull Request description is not required, but is very welcome. 
+Pull Request description is not required, but is very welcome.
 
 # License
