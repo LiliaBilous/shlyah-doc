@@ -1,1 +1,0 @@
-import{_ as s}from"./DlAUqK2U.js";import{c as e,e as o,E as c}from"./B4MlGMnt.js";const l={},r={class:"list-inside list-decimal [&:not(:first-child)]:mt-6 [&:not(:last-child)]:mb-6 [&>li:not(:first-child)]:mt-2"};function i(t,n){return e(),o("ol",r,[c(t.$slots,"default")])}const f=s(l,[["render",i]]);export{f as default};

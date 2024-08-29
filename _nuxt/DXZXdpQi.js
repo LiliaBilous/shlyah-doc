@@ -1,0 +1,1 @@
+import{_ as e}from"./D1upbAa2.js";import{d as a,c as r,I as n,w as s,E as c}from"./C_harSeC.js";const m=a({__name:"Callout",props:{icon:{},to:{},target:{}},setup(p){return(t,i)=>{const o=e;return r(),n(o,{icon:t.icon,to:t.to,target:t.target},{default:s(()=>[c(t.$slots,"default")]),_:3},8,["icon","to","target"])}}});export{m as default};

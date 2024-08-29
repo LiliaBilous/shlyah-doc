@@ -1,1 +1,0 @@
-import{_ as o}from"./DlAUqK2U.js";import{c as e,e as t,E as s}from"./B4MlGMnt.js";const c={},a={class:"group grid gap-4 md:grid-cols-2 [&:not(:first-child)]:mt-5"};function n(r,d){return e(),t("div",a,[s(r.$slots,"default")])}const _=o(c,[["render",n]]);export{_ as default};
