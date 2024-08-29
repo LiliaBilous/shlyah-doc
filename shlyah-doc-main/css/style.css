@@ -1,0 +1,9 @@
+/* https://jhildenbiddle.github.io/docsify-themeable/#/themes */
+
+:root {
+  --sidebar-width: 15rem;
+}
+
+.sidebar .app-name img {
+  max-width: 6rem;
+}
