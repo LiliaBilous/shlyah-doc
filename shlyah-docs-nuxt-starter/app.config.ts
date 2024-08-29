@@ -10,7 +10,7 @@ export default defineAppConfig({
       radius: 0.5,
     },
     header: {
-      title: 'shadcn-docs-starter',
+      title: 'shlyah-documentation',
       showTitle: true,
       darkModeToggle: true,
       logo: {
@@ -20,7 +20,7 @@ export default defineAppConfig({
       nav: [],
       links: [{
         icon: 'lucide:github',
-        to: 'https://github.com/ZTL-UwU/shadcn-docs-nuxt',
+        to: 'https://github.com/LiliaBilous/shlyah-doc',
         target: '_blank',
       }],
     },
@@ -36,7 +36,7 @@ export default defineAppConfig({
       credits: 'Copyright © 2024',
       links: [{
         icon: 'lucide:github',
-        to: 'https://github.com/ZTL-UwU/shadcn-docs-nuxt',
+        to: 'https://github.com/LiliaBilous/shlyah-doc',
         target: '_blank',
       }],
     },
